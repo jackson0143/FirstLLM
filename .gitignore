@@ -4,3 +4,25 @@
 *.ptx
 *.cubin
 *.fatbin
+
+# Python virtual environment
+cuda/
+venv/
+env/
+.env/
+
+# Large data files
+*.txt
+*.csv
+*.json
+*.jsonl
+*.dat
+*.bin
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
