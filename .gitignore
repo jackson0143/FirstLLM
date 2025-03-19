@@ -12,8 +12,8 @@ env/
 .env/
 
 # Large data files
-*.txt
-*.csv
+# *.txt
+# *.csv
 *.json
 *.jsonl
 *.dat
